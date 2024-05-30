@@ -1,8 +1,9 @@
 {
-    "name": "CRUDS Infotech Organization Workflow",
+    "name": "XyZ CICD",
     "description": "CRUDS Infotech Organization CI starter workflow.",
     "categories": [
-        "Go"
+        "Java",
+        "Angular"
     ],
     "filePatterns": [
         "package.json$",
