@@ -1,6 +1,7 @@
 {
     "name": "XyZ CICD",
     "description": "CICD Pipline will build your project, Creates Docker image, Pushes Docker Image, Creates Helm Chart, push Helm Chart and deploy your project into kubernetes cluster based on your branching strategy",
+    "icon": "icon/logo.png",
     "categories": [
         "Java",
         "Angular"
