@@ -1,7 +1,7 @@
 {
     "name": "XyZ CICD",
     "description": "CICD Pipline will build your project, Creates Docker image, Pushes Docker Image, Creates Helm Chart, push Helm Chart and deploy your project into kubernetes cluster based on your branching strategy",
-    "icon": "icon",
+    "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIj4KICA8Zz4KICAgIDxwYXRoIGZpbGw9IiNGRkYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTEyLjI4MiAxMi4yODJhMTIuMjgyIDEyLjI4MiAwIDAgMC0xMi4yODItMTIuMjgybC0xLjYzNy0xLjYzN2EyLjI4MiAyLjI4MiAwIDAgMC0yLjI4MSAyLjI4MWwxLjYzNyAxLjYzN2ExMi4yODIgMTIuMjgyIDAgMCAwIDEyLjI4Mi0xMi4yODJ6Ii8+CiAgICA8cGF0aCBmaWxsPSIjRkZGIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yLjg2OSAxMi4yODJhMTIuMjgyIDEyLjI4MiAwIDAgMC0xMi4yODItMTIuMjgybC0xLjYzNy0xLjYzN2EyLjI4MiAyLjI4MiAwIDAgMC0yLjI4MSAyLjI4MWwxLjYzNyAxLjYzN2ExMi4yODIgMTIuMjgyIDAgMCAwIDEyLjI4Mi0xMi4yODJ6Ii8+CiAgICA8cGF0aCBmaWxsPSIjRkZGIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMiAxMi4yODJhMTIuMjgyIDEyLjI4MiAwIDAgMC0xMi4yODItMTIuMjgybDEuNjM3LTEuNjM3QTEyLjI4MiAxMi4yODIgMCAwIDAgMTIgMTIuMjgyem0wIDBoMTJhMTIuMjgyIDEyLjI4MiAwIDAgMC0xMi4yODIgMTIuMjgybDEuNjM3IDEuNjM3QTEyLjI4MiAxMi4yODIgMCAwIDAgMCAwek0xMi4yODIgMTIuMjgyYTEyLjI4MiAxMi4yODIgMCAwIDAgMTIuMjgyLTEyLjI4MmwxLjYzNy0xLjYzN0ExMi4yODIgMTIuMjgyIDAgMCAwIDEyIDExLjI4MnoiLz4KPC9zdmc+Cg==",
     "categories": [
         "Java",
         "Angular"
